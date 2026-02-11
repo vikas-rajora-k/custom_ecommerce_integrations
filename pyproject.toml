@@ -1,5 +1,5 @@
 [project]
-name = "custom_ecommerce_integrations"
+name = "ecommerce_integrations"
 description = "Ecommerce integrations for ERPNext"
 authors = [
     { name = "Frappe Technologies Pvt Ltd", email = "developers@frappe.io" }
